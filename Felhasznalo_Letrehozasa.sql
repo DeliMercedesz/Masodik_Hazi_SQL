@@ -1,0 +1,3 @@
+CREATE USER MaskUser WITHOUT Login;
+GRANT SELECT ON Vendeg TO MaskUser
+
